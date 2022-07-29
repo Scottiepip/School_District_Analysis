@@ -52,7 +52,8 @@ However, after we done the analyze, The school board has notified Maria and her 
       - Scores by school size
       
          Original score by size
-         
+         ![image](https://user-images.githubusercontent.com/108709071/181678727-16deb23f-b389-4a22-87d0-2c9f04ba5f68.png)
+
          New score by size
          ![image](https://user-images.githubusercontent.com/108709071/181678692-f11eeb70-faae-436f-9a2a-a60ec48014f2.png)
 
