@@ -37,7 +37,10 @@ However, after we done the analyze, The school board has notified Maria and her 
       
    -How does replacing the ninth-grade scores affect the following:
       - Math and reading scores by grade
+      
       -Scores by school spending
+      
       -Scores by school size
+      
       -Scores by school type
    
