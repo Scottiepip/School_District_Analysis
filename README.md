@@ -51,7 +51,11 @@ However, after we done the analyze, The school board has notified Maria and her 
          New score by grade
          Math
          
+         ![image](https://user-images.githubusercontent.com/108709071/181679405-27beeaaf-5b46-4181-af8c-3cc7286f2259.png)
+
          Reading
+         
+         
       - Scores by school spending
                 
          Original score by spending
