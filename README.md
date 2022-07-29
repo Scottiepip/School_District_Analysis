@@ -55,7 +55,8 @@ However, after we done the analyze, The school board has notified Maria and her 
 
          Reading
          
-         
+         ![image](https://user-images.githubusercontent.com/108709071/181679475-3a81df0f-696e-446e-9eeb-f4d0bba56b48.png)
+
       - Scores by school spending
                 
          Original score by spending
