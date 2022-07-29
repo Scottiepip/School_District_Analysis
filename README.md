@@ -5,3 +5,4 @@ Maria, the Chief Data Scientist of City School District, is responsible for anal
 
 However, after we done the analyze, The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. Maria has asked us to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. And Maria want us to repeat the school district analysis that we did and write up a report to describe how these changes affected the overall analysis.
 ## Result
+- How District summary is affected
