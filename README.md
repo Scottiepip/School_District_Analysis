@@ -57,6 +57,8 @@ However, after we done the analyze, The school board has notified Maria and her 
          
          ![image](https://user-images.githubusercontent.com/108709071/181679475-3a81df0f-696e-446e-9eeb-f4d0bba56b48.png)
 
+         Only 9th grader from Thomas High School shown as NaN, other than thet no change in score by grade.
+         
       - Scores by school spending
                 
          Original score by spending
@@ -65,6 +67,8 @@ However, after we done the analyze, The school board has notified Maria and her 
          New score by spennding
          ![image](https://user-images.githubusercontent.com/108709071/181678526-29d30200-66b1-4150-bd14-bcb178a4e233.png)
 
+         No change in score by spending
+         
       - Scores by school size
          
          Original score by size
@@ -74,6 +78,8 @@ However, after we done the analyze, The school board has notified Maria and her 
          New score by size
          
          ![image](https://user-images.githubusercontent.com/108709071/181678692-f11eeb70-faae-436f-9a2a-a60ec48014f2.png)
+
+         No change in score by size
 
       - Scores by school type
       
@@ -85,3 +91,7 @@ However, after we done the analyze, The school board has notified Maria and her 
          New score by type
          
          ![image](https://user-images.githubusercontent.com/108709071/181679047-6a4b4e8d-26fb-4aad-80e0-94d86409b55d.png)
+         
+         No change in score by type
+                  
+##Summary
