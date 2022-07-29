@@ -18,10 +18,12 @@ However, after we done the analyze, The school board has notified Maria and her 
    - How is school summary affected?
    
       Original school summary
-      https://github.com/Scottiepip/School_District_Analysis/blob/main/Resources/Old%20School%20Summary.png?raw=true
+      ![image](https://user-images.githubusercontent.com/108709071/181675369-b1526b4a-43ac-479a-b92e-616a9996ab51.png)
 
       New school summary
       ![image](https://user-images.githubusercontent.com/108709071/181674182-3158ebad-0284-4a0e-ad04-041bd32e0b49.png)
+      
+      Base on the result shown on the above pictures, we can see that there's no change in other schools. For Thomas High School, the average math score decreses, average reading score increases and % passing for math, reading and overall decreases. But changes are less than 1%, it's pretty minimum.
 
 
       
