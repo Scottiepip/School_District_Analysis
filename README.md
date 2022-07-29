@@ -41,7 +41,11 @@ However, after we done the analyze, The school board has notified Maria and her 
          Original score by grade
          Math
          
+         ![image](https://user-images.githubusercontent.com/108709071/181679281-c32b96fa-4f16-4d77-9ef7-e48e6364e04f.png)
+
          Reading
+         
+         
          
          New score by grade
          Math
