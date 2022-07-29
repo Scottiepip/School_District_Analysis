@@ -25,6 +25,9 @@ However, after we done the analyze, The school board has notified Maria and her 
       
       Base on the result shown on the above pictures, we can see that there's no change in other schools. For Thomas High School, the average math score decreses, average reading score increases and % passing for math, reading and overall decreases. But changes are less than 1%, it's pretty minimum.
 
-
+   - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+   
+      Original top school
+      
       
    
