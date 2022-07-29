@@ -42,7 +42,7 @@ However, after we done the analyze, The school board has notified Maria and her 
          
          New score by grade
       - Scores by school spending
-         
+                
          Original score by spending
          ![image](https://user-images.githubusercontent.com/108709071/181678372-d4218d3a-932e-48cb-9212-46b1a86752c7.png)
 
@@ -50,11 +50,13 @@ However, after we done the analyze, The school board has notified Maria and her 
          ![image](https://user-images.githubusercontent.com/108709071/181678526-29d30200-66b1-4150-bd14-bcb178a4e233.png)
 
       - Scores by school size
-      
+         
          Original score by size
+         
          ![image](https://user-images.githubusercontent.com/108709071/181678727-16deb23f-b389-4a22-87d0-2c9f04ba5f68.png)
 
          New score by size
+         
          ![image](https://user-images.githubusercontent.com/108709071/181678692-f11eeb70-faae-436f-9a2a-a60ec48014f2.png)
 
       - Scores by school type
