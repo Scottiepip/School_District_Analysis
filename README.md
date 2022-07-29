@@ -31,6 +31,9 @@ However, after we done the analyze, The school board has notified Maria and her 
       ![image](https://user-images.githubusercontent.com/108709071/181676224-d0026837-8fe3-4ec4-965b-42f1f19dcaf1.png)
 
       New top school
+      ![image](https://user-images.githubusercontent.com/108709071/181676312-fedb2679-48ba-4871-bfb3-21741e256881.png)
+
+      From the comparison, we can see that replacing the 9th graders math and reading scores doesn't affect Thomas High School's performance. It's still in the top five performing schools.
       
-      
+   -
    
