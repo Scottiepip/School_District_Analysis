@@ -28,6 +28,9 @@ However, after we done the analyze, The school board has notified Maria and her 
    - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
    
       Original top school
+      ![image](https://user-images.githubusercontent.com/108709071/181676224-d0026837-8fe3-4ec4-965b-42f1f19dcaf1.png)
+
+      New top school
       
       
    
