@@ -18,5 +18,8 @@ However, after we done the analyze, The school board has notified Maria and her 
    - How is school summary affected?
    
       Original school summary
+      ![image](https://user-images.githubusercontent.com/108709071/181672411-bcbafc86-f25c-45d7-9a6e-423f9c7b5db6.png)
+      
+      New school summary
       
    
