@@ -39,8 +39,14 @@ However, after we done the analyze, The school board has notified Maria and her 
       - Math and reading scores by grade
       
          Original score by grade
+         Math
+         
+         Reading
          
          New score by grade
+         Math
+         
+         Reading
       - Scores by school spending
                 
          Original score by spending
