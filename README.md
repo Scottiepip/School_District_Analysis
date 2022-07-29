@@ -36,4 +36,7 @@ However, after we done the analyze, The school board has notified Maria and her 
       From the comparison, we can see that replacing the 9th graders math and reading scores doesn't affect Thomas High School's performance. It's still in the top five performing schools.
       
    - How does replacing the ninth-grade scores affect the following:
-     
+      - Math and reading scores by grade
+      - Scores by school spending
+      - Scores by school size
+      - Scores by school type
