@@ -63,4 +63,7 @@ However, after we done the analyze, The school board has notified Maria and her 
       
          Original score by type
          
+         ![image](https://user-images.githubusercontent.com/108709071/181679010-cdf2e59a-457b-4cd6-afc0-06355883813b.png)
+
+         
          New score by type
