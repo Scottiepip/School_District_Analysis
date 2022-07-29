@@ -21,7 +21,8 @@ However, after we done the analyze, The school board has notified Maria and her 
       
       
       New school summary
-      
+      ![image](https://user-images.githubusercontent.com/108709071/181674182-3158ebad-0284-4a0e-ad04-041bd32e0b49.png)
+
 
       
    
