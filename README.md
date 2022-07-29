@@ -95,3 +95,4 @@ However, after we done the analyze, The school board has notified Maria and her 
          No change in score by type
                   
 ## Summary
+The impact of removing Thoma High School's 9th graders' score is really minimum and it doesn't make any inpact to schols performance.
