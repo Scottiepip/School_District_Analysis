@@ -47,7 +47,8 @@ However, after we done the analyze, The school board has notified Maria and her 
          ![image](https://user-images.githubusercontent.com/108709071/181678372-d4218d3a-932e-48cb-9212-46b1a86752c7.png)
 
          New score by spennding
-         
+         ![image](https://user-images.githubusercontent.com/108709071/181678526-29d30200-66b1-4150-bd14-bcb178a4e233.png)
+
       - Scores by school size
       
          Original score by size
