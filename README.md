@@ -45,7 +45,8 @@ However, after we done the analyze, The school board has notified Maria and her 
 
          Reading
          
-         
+         ![image](https://user-images.githubusercontent.com/108709071/181679356-95ab103d-b6dc-4565-92b8-ab266c7c2dd8.png)
+
          
          New score by grade
          Math
